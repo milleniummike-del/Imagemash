@@ -1,0 +1,6 @@
+{
+  "name": "Dual Image Fusion Studio",
+  "description": "Upload two images to analyze their visual and conceptual DNA, then generate 5 brand new synthesized images blending styles, subjects, color palettes, and themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
